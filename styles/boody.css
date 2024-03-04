@@ -1,0 +1,30 @@
+.corp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5em;
+    padding: 2em;
+}
+.corp__text{
+    font-size: 40px;
+    font-family: var(--fonte-pag);
+    font-weight: 500;
+    line-height: 20px;
+    padding: 2em;
+}
+.descricao__text{
+    font-size: 24px;
+    font-family: var(--fonte-pag);
+    font-weight: 300;
+    line-height: 30px;
+    margin: 1em;
+    padding: 0.5em 1.4em 0;
+}
+.text__titulo{
+    margin: 1em;
+    padding: 0.5em;
+}
+.corp__img{
+    padding: 0 12em 1em 0 ;
+}
+

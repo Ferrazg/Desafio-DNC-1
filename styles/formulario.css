@@ -1,0 +1,39 @@
+.formulario{
+    background-color: var(--cor-backgrouud--header);
+    text-align: center;
+    height: 35em;
+}
+.titulo__form{
+    padding: 4em 0 3em;
+}
+.text__form{
+    font-family: var(--fonte-pag);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    color: var(--cor-fonte);
+}
+.formulario__info{
+    margin: 1.5em 0;
+    height: 4em;
+    width: 35em;
+    border-radius: 0.5em;
+    border: 2em;
+    padding: 0.5em;
+}
+.botao__enviar{
+    margin: 2em;
+    height: 3em;
+    width: 11em;
+    padding: 1em;
+    text-align: center;
+    font-size: 25px;
+    font-family: var(--fonte-pag);
+    font-weight: 700;
+    line-height: 24px;
+    border-radius: 0.5em;
+    border: 2em;
+    background-color: var(--cor-botao);
+    color: var(--cor-fonte);
+    cursor: pointer;
+}
